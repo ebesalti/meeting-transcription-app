@@ -3,6 +3,9 @@
 ## Overview
 A desktop application for Windows that streamlines the annual employee review process by automatically transcribing manager-employee conversations in real-time, extracting relevant information, and filling in a predefined Google Form.
 
+## Author
+Erkan
+
 ## Features
 - Real-time audio capture and transcription
 - Bilingual support (Swedish and English)
